@@ -14,4 +14,13 @@
 	$('#B_Rex').tap(function (e) {
  	 $.mobile.navigate( "#Rex" );
 	});
+	
+	$('#B_tri').tap(function (e) {
+ 	 $.mobile.navigate( "#tri" );
+	});
+	
+	$('#aserca').tap(function (e) {
+ 	 $.mobile.navigate( "#aserca" );
+	});
+
 });//ready
